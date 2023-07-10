@@ -19,3 +19,11 @@ Password：4d4e
 1. Python: 3.8
 2. CUDA: 11.4
 3. Pytorch: 1.11.0
+
+## Getting Started
+### 1. Install
+```text
+git clone https://github.com/ultralytics/yolov5  # clone
+cd yolov5
+pip install -r requirements.txt  # install
+```
