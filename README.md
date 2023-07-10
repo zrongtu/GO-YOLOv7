@@ -23,7 +23,11 @@ Password：4d4e
 ## Getting Started
 ### 1. Install
 ```text
-git clone https://github.com/ultralytics/yolov5  # clone
-cd yolov5
+git clone https://github.com/zrongtu/GO-YOLOv7.git  # clone
+cd GO-YOLOv7
 pip install -r requirements.txt  # install
+```
+### 2. Training
+```text
+python train.py --batch-size 128 --data data/your_dataset_name.yaml --cfg cfg/training/your_dataset_name.yaml --weights yolov7-tiny.pt --epochs 200  
 ```
