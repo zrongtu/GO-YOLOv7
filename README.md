@@ -40,7 +40,10 @@ python test.py --data data/data.yaml --weights your_pt.pt
 python detect.py --weights yourpt.pt --img-size 640 --source inference/images/xxx.jpg
 ```
 
+## License
+This project is released under the MIT license.
 
+## Contact 
 
 
 
