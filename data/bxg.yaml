@@ -1,0 +1,7 @@
+train: ../bxg/train.txt
+val: ../bxg/val.txt
+test: ../bxg/test.txt
+
+nc: 1
+
+names: [ 'bxg' ]
