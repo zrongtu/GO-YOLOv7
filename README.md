@@ -3,9 +3,7 @@ The official repository for "GO-YOLOv7: A Lightweight and Fast Algorithm for Det
 
 ## Dataset
 ### 1. Overview
-```txt
-ddd
-
+Passion fruit dataset was collected from an orchard in Wutong Town, Lingui District, Guilin, Guangxi, using a Realsense D435 depth camera.
 
 
 2. 
