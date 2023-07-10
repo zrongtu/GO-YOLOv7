@@ -41,10 +41,10 @@ python detect.py --weights yourpt.pt --img-size 640 --source inference/images/xx
 ```
 
 ## License
-This project is released under the MIT license.
+GO-YOLOv7 is released under the MIT license.
 
 ## Contact 
-
+For more information, please contact the author's email: istuzhirong@163.com
 
 
 
