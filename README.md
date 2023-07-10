@@ -29,5 +29,26 @@ pip install -r requirements.txt  # install
 ```
 ### 2. Training
 ```text
-python train.py --batch-size 128 --data data/your_dataset_name.yaml --cfg cfg/training/your_dataset_name.yaml --weights yolov7-tiny.pt --epochs 200  
+python train.py --batch-size 128 --data data/data.yaml --cfg cfg/training/your_name.yaml --weights yolov7-tiny.pt --epochs 200  
 ```
+### 3. Testing
+```text
+python test.py --data data/data.yaml --weights your_pt.pt
+```
+### 4. Inference
+```text
+python detect.py --weights yourpt.pt --img-size 640 --source inference/images/xxx.jpg
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
